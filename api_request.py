@@ -104,6 +104,10 @@ def leetcode(user):
         logger.error(e)
         return e
 
-if __name__ == '__main__':
+
+def main():
     username = 'aviranjan444'
     logger.info(leetcode(username))
+
+if __name__ == '__main__':
+    main()
