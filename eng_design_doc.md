@@ -6,6 +6,12 @@ How to use this template: replace all the italicized text with your own. Design 
 
 Brief description of what the problem or opportunity is. Give an overview of the domain and pain points. What is the current solution? Give some details about what its shortcomings are.
 
+- Goal is to recommend a list of questions from Leetcode based on user's recent submissions (20) and user's contest stats on Leetcode platform.
+
+# Challenges
+
+Mention all the potential challenges that you may face or will face on the go while implementing or building the project
+
 # Proposed Solution
 
 Give a high-level summary of your proposed solution. This should explain what it will do, how it will be built, and what’s different. Explain the advantages of your proposal here.
